@@ -7,7 +7,7 @@
 
 <img src="public/public1.png" alt="JobHuntly Banner" width="800">
 <img src="public/public2.png" alt="JobHuntly Banner" width="800">
-<img src="public/public2.png" alt="JobHuntly Banner" width="800">
+<img src="public/public3.png" alt="JobHuntly Banner" width="800">
 
 
 A high-performance, visually immersive banking application featuring interactive 3D elements and a sleek, responsive dark-mode UI. 

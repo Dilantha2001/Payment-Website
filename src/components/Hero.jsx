@@ -38,7 +38,11 @@ const Hero = () => {
       </div>
 
       <div className="flex-1 relative flex items-center justify-center hero-fade-in hero-delay-2">
-        <img src={cards} alt="cards" className="w-full h-full object-contain" />
+        <img
+          src={cards}
+          alt="cards"
+          className="w-full h-full object-contain hero-fade-in"
+        />
         <div className="absolute w-[40%] h-[35%] top-0 pink__gradient" />
         <div className="absolute w-[80%] h-[80%] rounded-full bottom-40 white__gradient" />
         <div className="absolute w-[50%] h-[50%] right-20 bottom-20 blue__gradient" />

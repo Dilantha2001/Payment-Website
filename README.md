@@ -12,7 +12,8 @@
 
 A high-performance, visually immersive banking application featuring interactive 3D elements and a sleek, responsive dark-mode UI. 
 
-[Explore Demo]('https://resplendent-yeot-b6f88a.netlify.app/#features') 
+<a href='https://resplendent-yeot-b6f88a.netlify.app/#features'> [Explore Demo] </a>
+
 
 ---
 

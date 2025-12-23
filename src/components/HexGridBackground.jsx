@@ -13,11 +13,11 @@ const HexGridBackground = () => {
     bg.grid.setColors([0xffffff, 0x87ceeb, 0xffffff]);
     if (bg.grid.light1) {
       bg.grid.light1.color.set(0x87ceeb);
-      bg.grid.light1.intensity = 300;
+      bg.grid.light1.intensity = 100;
     }
     if (bg.grid.light2) {
       bg.grid.light2.color.set(0xffffff);
-      bg.grid.light2.intensity = 150;
+      bg.grid.light2.intensity = 100;
     }
   }, []);
 

@@ -47,3 +47,86 @@ A high-performance, visually immersive banking application featuring interactive
    ```bash
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
    cd your-repo-name
+   ```
+
+2.  **Install dependencies**
+
+    ```bash
+    npm install
+    ```
+
+3.  **Start the development server**
+
+    ```bash
+    npm run dev
+    ```
+
+4.  **Build for production**
+
+    ```bash
+    npm run build
+    ```
+
+-----
+
+## 📸 Screenshots
+
+Showcase your amazing UI and 3D elements here!
+
+| 3D Hero Section | Transaction Dashboard | Responsive View |
+| :-------------: | :-------------------: | :-------------: |
+| ![3D Hero Section](https://via.placeholder.com/600x400/0A0A0A/FFFFFF?text=3D+Hero+Section) | ![Transaction Dashboard](https://via.placeholder.com/600x400/0A0A0A/FFFFFF?text=Transaction+Dashboard) | ![Responsive View](https://via.placeholder.com/300x600/0A0A0A/FFFFFF?text=Mobile+View) |
+| **Login/Auth Page** | **Account Overview** | **Cards Management** |
+| ![Login Page](https://via.placeholder.com/600x400/0A0A0A/FFFFFF?text=Login+Page) | ![Account Overview](https://via.placeholder.com/600x400/0A0A0A/FFFFFF?text=Account+Overview) | ![Cards Management](https://via.placeholder.com/600x400/0A0A0A/FFFFFF?text=Cards+Management) |
+
+---
+
+## 📁 Project Structure
+
+```text
+src/
+ ├── assets/        # 3D Models (.glb), Images, and Icons
+ ├── components/    # Reusable UI & 3D Canvas components
+ ├── sections/      # Large page sections (Hero, Features, etc.)
+ ├── styles/        # Tailwind global configurations
+ └── constants/     # Static data for cards and links
+```
+
+-----
+
+## 🤝 Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create.
+
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
+
+-----
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+-----
+
+## 📧 Contact
+
+Your Name - [@yourtwitter](https://www.google.com/search?q=https://twitter.com/yourtwitter) - email@example.com
+
+Project Link: [https://github.com/your-username/your-repo-name](https://www.google.com/search?q=https://github.com/your-username/your-repo-name)
+
+```
+
+---
+
+**Remember to:**
+
+1.  **Take actual screenshots** of your project (different sections like the 3D hero, dashboard, mobile view, etc.).
+2.  **Upload them** to your GitHub repository (a good place is `your-repo-name/assets/screenshots/`).
+3.  **Replace the `https://via.placeholder.com/...` URLs** with the direct links to your uploaded images.
+
+For example, if you upload `hero-section.png` to `assets/screenshots/`, the line would become:
+`![3D Hero Section](assets/screenshots/hero-section.png)`

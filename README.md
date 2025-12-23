@@ -74,15 +74,7 @@ A high-performance, visually immersive banking application featuring interactive
 
 -----
 
-## 📸 Screenshots
 
-Showcase your amazing UI and 3D elements here!
-
-| 3D Hero Section | Transaction Dashboard | Responsive View |
-| :-------------: | :-------------------: | :-------------: |
-| ![3D Hero Section](https://via.placeholder.com/600x400/0A0A0A/FFFFFF?text=3D+Hero+Section) | ![Transaction Dashboard](https://via.placeholder.com/600x400/0A0A0A/FFFFFF?text=Transaction+Dashboard) | ![Responsive View](https://via.placeholder.com/300x600/0A0A0A/FFFFFF?text=Mobile+View) |
-| **Login/Auth Page** | **Account Overview** | **Cards Management** |
-| ![Login Page](https://via.placeholder.com/600x400/0A0A0A/FFFFFF?text=Login+Page) | ![Account Overview](https://via.placeholder.com/600x400/0A0A0A/FFFFFF?text=Account+Overview) | ![Cards Management](https://via.placeholder.com/600x400/0A0A0A/FFFFFF?text=Cards+Management) |
 
 ---
 
@@ -117,13 +109,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 -----
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://www.google.com/search?q=https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/your-username/your-repo-name](https://www.google.com/search?q=https://github.com/your-username/your-repo-name)
-
-```
 
 ---
 

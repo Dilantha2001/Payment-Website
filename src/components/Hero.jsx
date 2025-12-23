@@ -41,7 +41,7 @@ const Hero = () => {
         <img
           src={cards}
           alt="cards"
-          className="w-full h-full object-contain hero-fade-in"
+          className="w-full h-full object-contain hero-slide-in-right hero-delay-2"
         />
         <div className="absolute w-[40%] h-[35%] top-0 pink__gradient" />
         <div className="absolute w-[80%] h-[80%] rounded-full bottom-40 white__gradient" />

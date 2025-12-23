@@ -213,3 +213,18 @@ body, html {
     transform: translateY(0);
   }
 }
+
+.hero-slide-in-right {
+  animation: heroSlideInRight 1s ease-out forwards;
+}
+
+@keyframes heroSlideInRight {
+  0% {
+    opacity: 0;
+    transform: translateX(50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}

@@ -21,7 +21,7 @@ const Footer = () => {
     <section className="relative font-poppins pb-10 sm:pb-16">
       <div className="flex items-start md:flex-row flex-col gap-10 md:gap-24">
         <div className="md:max-w-[370px]">
-          <h2 className="text-3xl">Naseem.</h2>
+         
           <p className="text-dimWhite leading-relaxed text-base ss:text-lg mt-5">
             A new way to make the payments easy, reliable and secure.
           </p>
@@ -45,9 +45,7 @@ const Footer = () => {
       </div>
 
       <div className="flex items-center justify-between md:flex-row flex-col gap-5 pt-10 mt-10 sm:mt-16 border-t">
-        <p className="md:text-base xs:text-sm text-xs">
-          Copyright Ⓒ {date} Naseem Khan. All Rights Reserved.
-        </p>
+        
         <div>
           <div className="flex items-center gap-3 xs:gap-5 text-lg xs:text-xl">
             <SocialMedia

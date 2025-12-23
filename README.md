@@ -5,6 +5,11 @@
 [![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
+<img src="public/public1.png" alt="JobHuntly Banner" width="800">
+<img src="public/public2.png" alt="JobHuntly Banner" width="800">
+<img src="public/public2.png" alt="JobHuntly Banner" width="800">
+
+
 A high-performance, visually immersive banking application featuring interactive 3D elements and a sleek, responsive dark-mode UI. 
 
 [Explore Demo](#) · [Report Bug](#) · [Request Feature](#)
